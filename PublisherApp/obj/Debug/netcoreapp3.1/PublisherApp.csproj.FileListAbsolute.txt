@@ -1,0 +1,16 @@
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\bin\Debug\netcoreapp3.1\PublisherApp.exe
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\bin\Debug\netcoreapp3.1\PublisherApp.deps.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\bin\Debug\netcoreapp3.1\PublisherApp.runtimeconfig.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\bin\Debug\netcoreapp3.1\PublisherApp.runtimeconfig.dev.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\bin\Debug\netcoreapp3.1\PublisherApp.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\bin\Debug\netcoreapp3.1\PublisherApp.pdb
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\obj\Debug\netcoreapp3.1\PublisherApp.csprojAssemblyReference.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\obj\Debug\netcoreapp3.1\PublisherApp.AssemblyInfoInputs.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\obj\Debug\netcoreapp3.1\PublisherApp.AssemblyInfo.cs
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\obj\Debug\netcoreapp3.1\PublisherApp.csproj.CoreCompileInputs.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\obj\Debug\netcoreapp3.1\PublisherApp.csproj.CopyComplete
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\obj\Debug\netcoreapp3.1\PublisherApp.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\obj\Debug\netcoreapp3.1\PublisherApp.pdb
+C:\Users\zZEN\Desktop\rabbitMQexamples\PublisherSubscriberPatternRabbitMQ\PublisherApp\obj\Debug\netcoreapp3.1\PublisherApp.genruntimeconfig.cache
